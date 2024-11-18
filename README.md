@@ -2,7 +2,7 @@
 
 PyTorch Code for  [Keen Eye: A Progressive Feature Learning Network for Cordyceps sinensis Image Recognition]()
 
-![image1](/fig/1.png)
+![image1](fig/1.png)
 
 # Requirement
 
@@ -10,7 +10,7 @@ python 3.9.19
 
 torch>=2.1.1+cu121
 
-## Dataset
+# Dataset
 
 | 产区       | 数量  |
 | ---------- | ----- |
@@ -23,7 +23,7 @@ torch>=2.1.1+cu121
 | 玉树州     | 3124  |
 | 总计       | 17147 |
 
-![image2](/fig/2.png)
+![image2](fig/2.png)
 
 
 
